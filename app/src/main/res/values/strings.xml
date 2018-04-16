@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KotlinAnko</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="explicacao_permissao">
+        Para que seja possível realizar a ligação telefônica partindo do aplicativo,
+        libere a permissão de ligação.
+    </string>
+
+    <string name="explain_sms_activity">
+        Na mensagem de texto informe: o assunto principal, seu melhor email e um número
+        para contato. Pois assim entrarei em contato.
+    </string>
+
+    <string name="send_msg_btn">Send</string>
+    <string name="ms_activity_label">sms_activity</string>
+</resources>
